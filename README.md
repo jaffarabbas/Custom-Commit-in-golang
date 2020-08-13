@@ -1,0 +1,3 @@
+# Custom-Commit-in-golang
+
+# UNDER DEVELOPMENT AND FOR PRACTICE PURPOSE
